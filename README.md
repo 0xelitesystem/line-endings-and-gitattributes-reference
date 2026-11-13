@@ -53,4 +53,4 @@ This repository is plain Markdown. There is no code to run, no build step, no tr
 
 ## License
 
-MIT. Copyright 0xelitesystem 2026.
+MIT. Copyright RBL Industries LLC 2026.
